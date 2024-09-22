@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/CREATE_TABLE_buildings___id_SERIAL_PRIMA.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/CREATE_TABLE_rooms___id_SERIAL_PRIMARY_K.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/INSERT_INTO_buildings__number__address_.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/INSERT_INTO_rooms__number__capacity__bui.sql" dialect="PostgreSQL" />
+  </component>
+</project>
